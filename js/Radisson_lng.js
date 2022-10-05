@@ -26,7 +26,7 @@
     const d9=document.querySelector('.d9');
     const d10=document.querySelector('.d10');
     const d11=document.querySelector('.d11');
-    const d12=document.querySelector('.d12');
+    const d12=document.querySelector('.wo');
     const d13=document.querySelector('.d13');
     const d14=document.querySelector('.d14');
     const d15=document.querySelector('.d15');
