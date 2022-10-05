@@ -26,7 +26,7 @@
     const d9=document.querySelector('.d9');
     const d10=document.querySelector('.d10');
     const d11=document.querySelector('.d11');
-    const d12=document.querySelector('.d12');
+  //  const d12=document.querySelector('.d12');
     const d13=document.querySelector('.d13');
     const d14=document.querySelector('.d14');
     const d15=document.querySelector('.d15');
@@ -157,7 +157,7 @@
         t23.textContent =data[attr].t23;
         t24.textContent =data[attr].t24;
         t25.textContent =data[attr].t25;
-        t26.textContent =data[attr].t26;
+      //  t26.textContent =data[attr].t26;
         t27.textContent =data[attr].t27;
         t28.textContent =data[attr].t28;
         t29.textContent =data[attr].t29;
